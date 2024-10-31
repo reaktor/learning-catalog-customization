@@ -3,8 +3,8 @@
 
 # base config in partials/branding, partials/head
 branding:
-  name: Reaktor Library
-  prettyName: Reaktor Library
+  name: Learning Catalog
+  prettyName: Learning Catalog
   org: Reaktor
   icon: /assets/images/r-logo.gif
   favicon: /assets/images/favicon.ico
@@ -13,10 +13,9 @@ branding:
 landing:
   tagline: Experimental new Intranet. Actually just shows the contents of our shared Google Drive in a nice manner.
   viewAll: View All
-  quickLink: <a href="/confluence-replacement/getting-started-with-reaktor-library">Get Started.</a>
   modules:
-    - tag: team
-      label: Teams
+    - tag: role
+      label: Roles
       style: button
     - tag: featured
       label: Featured
