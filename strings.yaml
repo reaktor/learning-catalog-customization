@@ -23,7 +23,7 @@ landing:
 
 # partials/footer
 footer:
-  helpText: Questions? Suggestions? Join the discussion on <a target="blank" href="https://reaktor.slack.com/archives/C01EY585QB1">Reaktor Slack</a>.
+  helpText: Questions? Suggestions? Join the discussion on <a target="blank" href="https://reaktor.slack.com/archives/C07V4TA7LAU">Reaktor Slack</a>.
   defaultEmail: user@your_organization.com
   buttons:
     edit: Edit This Page
