@@ -14,9 +14,6 @@ landing:
   tagline: Experimental new Intranet. Actually just shows the contents of our shared Google Drive in a nice manner.
   viewAll: View All
   modules:
-    - tag: role
-      label: Roles
-      style: button
     - tag: featured
       label: Featured
       style: docs         
